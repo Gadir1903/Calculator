@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: linear-gradient(to right, #9a5cd7, #f69271);
+}
+
+form {
+    margin-top: 30px;
+}
+
+.textview {
+    width: 371px;
+    height: 165px;
+    border-radius: 3px 3px 0 0;
+    background-color: #212121;
+    border: none;
+    font: 300 50px 'Lato', sans-serif;
+    line-height: 70px;
+    color: #fff;
+    text-align: right;
+
+}
+
+
+table input {
+    border: none;
+    width: 93px;
+    height: 91px;
+    background-color: #f9f9f9;
+    font: 300 22px 'Lato', sans-serif;
+    line-height: 70px;
+    color: #212121;
+    text-align: center;
+}
+
+.button {
+    cursor: pointer;
+}
+
+.main {
+    text-align: center;
+}
+
+table {
+    margin: auto;
+}
+
+.buttonfaiz,
+.buttonmix,
+.buttonsil {
+    background-color: #f4f4f4;
+    cursor: pointer;
+}
+
+.bol,
+.vur,
+.cix,
+.plus {
+    background-color: #9155e1;
+    color: #fff;
+    cursor: pointer;
+}
+
+.beraber {
+    background-color: #e62e89;
+    width: 186px;
+    color: #fff;
+    cursor: pointer;
+}
